@@ -6,6 +6,8 @@ Celem zadań jest utrwalenie użycia pokazanych do tej pory elementów Pythona.
 
 1. **Używamy tylko funkcji pokazanych do tej pory na zajęciach**. Wiekszość zadań można łatwo rozwiązać używając biblioteki Pandas. Proszę tego nie robić ;)
 2. **Przed** napisaniem kodu, piszemy testy!
+3. Używamy repozytorium na Githubie.
+4. Praca w grupach 3-4 osobowych.
 
 ## Zadania
 
