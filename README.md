@@ -8,7 +8,7 @@ Celem zadań jest utrwalenie użycia pokazanych do tej pory elementów Pythona.
 2. **Przed** napisaniem kodu, piszemy testy!
 3. Używamy repozytorium na Githubie.
 4. Praca w grupach 3-4 osobowych.
-5. W pliku znajdują się wierwsze zawierające znak ", proszę je pominąć. (np używająć funkcji `filter`)
+5. W pliku znajdują się wiersze zawierające znak ", proszę je pominąć. (np używająć funkcji `filter`)
 
 ## Zadania
 
